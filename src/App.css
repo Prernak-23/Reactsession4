@@ -1,0 +1,13 @@
+
+.app{
+    text-align: center;
+    color: #00008b;
+    height: 100vh;
+    background: url("./components/login-bg.jpeg");
+}
+
+.message{
+    padding: 10px 40px;
+    background-color: #f5f7d8;
+    color: #03003b;
+}

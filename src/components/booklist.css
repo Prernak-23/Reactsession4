@@ -1,0 +1,32 @@
+.book-div{
+    background: url("./login-bg.jpeg");
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.book-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 20px;
+    color: rgb(15, 15, 63);
+    background-color: beige;
+    border-radius: 10px;
+}
+.title{
+    font-size: 35px;
+    color: #f25149;
+}
+
+.book-link{
+    color: #06061d;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
